@@ -1,5 +1,5 @@
-import pygame
-import numpy as np
+import pygame 
+import numpy as np 
 import time
 # pylint: disable=maybe-no-member
 pygame.init()   #iniciamos el modulo
